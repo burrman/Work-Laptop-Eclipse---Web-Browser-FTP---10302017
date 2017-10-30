@@ -1,16 +1,10 @@
 package app;
 import java.io.File;
-import java.io.IOException;
 import java.util.Timer;
 import java.util.TimerTask;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import FTP.FTP;
-import FTP4J.FTPAbortedException;
-import FTP4J.FTPException;
-import FTP4J.FTPIllegalReplyException;
-import ImageConversion.ConvertTo24BitColor;
 import fileHandling.DirectoryManagement;
 import fileHandling.FileManagement;
 import fileHandling.Result_Data;

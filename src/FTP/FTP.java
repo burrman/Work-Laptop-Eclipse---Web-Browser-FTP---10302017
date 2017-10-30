@@ -6,8 +6,6 @@ import FTP4J.FTPClient;
 import FTP4J.FTPDataTransferException;
 import FTP4J.FTPException;
 import FTP4J.FTPIllegalReplyException;
-import fileHandling.FileManagement;
-
 import java.io.IOException;
 
 public class FTP {
