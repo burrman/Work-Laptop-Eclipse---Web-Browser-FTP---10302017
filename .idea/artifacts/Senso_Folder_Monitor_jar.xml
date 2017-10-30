@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Senso Folder Monitor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Senso_Folder_Monitor_jar</output-path>
+    <root id="archive" name="Senso Folder Monitor.jar">
+      <element id="module-output" name="Senso Folder Monitor" />
+    </root>
+  </artifact>
+</component>
