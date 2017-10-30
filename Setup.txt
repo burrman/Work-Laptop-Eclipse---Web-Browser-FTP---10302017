@@ -1,7 +1,6 @@
-C:\Users\KBAKI2\Desktop\Testing\Pass\
-C:\Users\KBAKI2\Desktop\Testing\Fail\
-C:\Users\KBAKI2\Desktop\Testing\To\
-217.199.187.250
-vivocamera@controlsatspringlake.com
-eCFhDz.yx
-LastImage_BMP.bmp
+C:\Users\KBAKI2\Documents\Sensopart Test Camera FTP Target\Pass\
+C:\Users\KBAKI2\Documents\Sensopart Test Camera FTP Target\Fail\
+C:\Users\KBAKI2\Documents\Sensopart Test Archive\
+ftp.stackcp.com
+vivostilecamera@controlsatspringlake.com
+camera1!
